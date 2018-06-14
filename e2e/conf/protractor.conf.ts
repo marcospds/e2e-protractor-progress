@@ -12,7 +12,7 @@ export let config: Config = {
 
   directConnect: true,
 
-  baseUrl: "http://jv-fwk-dev02:8180/totvs-menu",
+  baseUrl: "http://jv-fwk-dev02:8180/totvs-login/loginForm",
 
   params: {
     username: "super",
